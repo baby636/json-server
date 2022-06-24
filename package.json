@@ -39,7 +39,7 @@
     "please-upgrade-node": "^3.2.0",
     "pluralize": "^8.0.0",
     "server-destroy": "^1.0.1",
-    "update-notifier": "^5.0.1",
+    "update-notifier": "^6.0.0",
     "yargs": "^16.1.1"
   },
   "devDependencies": {
